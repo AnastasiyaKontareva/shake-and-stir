@@ -1,0 +1,116 @@
+{
+  "@@locale": "en",
+  "appTitle": "Shake & Stir",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "searchCocktailsScreenFilterButtonTooltip": "Filters",
+  "@searchCocktailsScreenFilterButtonTooltip": {
+    "description": "Tooltip for the filter button on the search cocktails screen"
+  },
+  "filterPanelTitle": "Filters",
+  "@filterPanelTitle": {
+    "description": "Title for the filter panel"
+  },
+  "filterPanelCategoryTitle": "Category",
+  "@filterPanelCategoryTitle": {
+    "description": "Title for the category section in the filter panel"
+  },
+  "filterPanelGlassTypeTitle": "Glass Type",
+  "@filterPanelGlassTypeTitle": {
+    "description": "Title for the glass type section in the filter panel"
+  },
+  "filterPanelAlcoholicTypeTitle": "Alcoholic Type",
+  "@filterPanelAlcoholicTypeTitle": {
+    "description": "Title for the alcoholic type section in the filter panel"
+  },
+  "filterPanelResetAllButton": "Reset All",
+  "@filterPanelResetAllButton": {
+    "description": "Label for the reset all button in the filter panel"
+  },
+  "filterPanelApplyFiltersButton": "Apply Filters",
+  "@filterPanelApplyFiltersButton": {
+    "description": "Label for the apply filters button in the filter panel"
+  },
+  "filterPanelContainsIngredientsTitle": "Contains Ingredients",
+  "@filterPanelContainsIngredientsTitle": {
+    "description": "Title for the contains ingredients section in the filter panel"
+  },
+  "filterPanelAddAnIngredientLabel": "Add an ingredient",
+  "@filterPanelAddAnIngredientLabel": {
+    "description": "Label for the add an ingredient text field in the filter panel"
+  },
+  "searchCocktailsBodyInitialPrompt": "Start typing to find a cocktail.",
+  "@searchCocktailsBodyInitialPrompt": {
+    "description": "Initial prompt in the search cocktails body"
+  },
+  "searchCocktailsBodyNoResults": "No results found for \"{query}\".",
+  "@searchCocktailsBodyNoResults": {
+    "description": "Message displayed when no search results are found",
+    "placeholders": {
+      "query": {
+        "type": "String",
+        "example": "margarita"
+      }
+    }
+  },
+  "cocktailBrowserScreenTitle": "Browse Cocktails",
+  "@cocktailBrowserScreenTitle": {
+    "description": "Title for the cocktail browser screen"
+  },
+  "cocktailBrowserBodyNoCocktailsFound": "No Cocktails Found",
+  "@cocktailBrowserBodyNoCocktailsFound": {
+    "description": "Message displayed when no cocktails are found in the cocktail browser"
+  },
+  "cocktailDetailsScreenTitle": "Recipe Details",
+  "@cocktailDetailsScreenTitle": {
+    "description": "Title for the cocktail details screen"
+  },
+  "cocktailDetailsGlassTitle": "Glass Type",
+  "cocktailDetailsServeIn": "Serve in: {glass}",
+  "@cocktailDetailsServeIn": {
+    "description": "Label for the glass type in the cocktail details view",
+    "placeholders": {
+      "glass": {
+        "type": "String",
+        "example": "Highball glass"
+      }
+    }
+  },
+  "cocktailDetailsIngredientsTitle": "Ingredients",
+  "@cocktailDetailsIngredientsTitle": {
+    "description": "Title for the ingredients section in the cocktail details view"
+  },
+  "cocktailDetailsInstructionsTitle": "Instructions",
+  "@cocktailDetailsInstructionsTitle": {
+    "description": "Title for the instructions section in the cocktail details view"
+  },
+  "favoritesBodyNoFavorites": "No Favorites Yet. Tap the ♡ on any cocktail.",
+  "@favoritesBodyNoFavorites": {
+    "description": "Message displayed when there are no favorite cocktails"
+  },
+  "randomCocktailShakePrompt": "Shake your phone to get a random cocktail!",
+  "@randomCocktailShakePrompt": {
+    "description": "Prompt to shake the phone for a random cocktail"
+  },
+  "randomCocktailClickPrompt": "Click the button to get a random cocktail!",
+  "@randomCocktailClickPrompt": {
+    "description": "Prompt to click the button for a random cocktail"
+  },
+  "randomCocktailSurpriseMeButton": "Surprise Me!",
+  "@randomCocktailSurpriseMeButton": {
+    "description": "Label for the surprise me button in the random cocktail view"
+  },
+  "randomCocktailResultTitle": "We found one for you!",
+  "@randomCocktailResultTitle": {
+    "description": "Title for the result view in the random cocktail feature"
+  },
+  "randomCocktailViewRecipeButton": "View Full Recipe",
+  "@randomCocktailViewRecipeButton": {
+    "description": "Label for the view full recipe button in the random cocktail result view"
+  },
+  "randomCocktailFindAnotherButton": "Find Another",
+  "@randomCocktailFindAnotherButton": {
+    "description": "Label for the find another button in the random cocktail result view"
+  }
+}
